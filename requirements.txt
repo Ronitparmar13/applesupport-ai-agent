@@ -1,0 +1,8 @@
+kagglehub
+google-genai
+pydantic
+scikit-learn
+pandas
+numpy
+gradio
+joblib
